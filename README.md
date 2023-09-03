@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/70759129?v=4" align="center" height="200" width="200" />
-</div>  
-  
 
-### <div align="center">I'm Funobu, a full-stack developer 👨‍💻 working since 2020 🚀</div>  
+### <div align="center">I'm Funobu, a full-stack developer 👨‍💻</div>  
   
 
 <br/>  
